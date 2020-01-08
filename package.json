@@ -1,0 +1,23 @@
+{
+  "name": "testingJS",
+  "version": "1.0.0",
+  "description": "testingJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rociac/testingJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rociac/testingJS/issues"
+  },
+  "homepage": "https://github.com/rociac/testingJS#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
