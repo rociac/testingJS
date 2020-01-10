@@ -1,0 +1,27 @@
+{
+  "name": "testingJS",
+  "version": "1.0.0",
+  "description": "testingJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rociac/testingJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rociac/testingJS/issues"
+  },
+  "homepage": "https://github.com/rociac/testingJS#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1",
+    "jest": "^24.9.0"
+  }
+}
